@@ -1,7 +1,7 @@
 # AI Photo Generator
 
 > This project is the final course in the `Modern JavaScript` course available to
-> Fireship Pro members on [Fireship.io](https://fireship.io)
+> Fireship Pro members on [Fireship.io](https://fireship.io/courses/js/)
 
 ## Table of Contents
 
